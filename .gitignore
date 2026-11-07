@@ -1,0 +1,8 @@
+# Saídas brutas de ferramentas (contêm códigos de cor / podem ser grandes)
+enum4_output.txt
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
